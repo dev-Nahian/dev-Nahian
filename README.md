@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working As **a Front-End-Developer At SoftVence Ltd.**
 
-- 🌱 I’m currently learning **Express Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **Python**
 
